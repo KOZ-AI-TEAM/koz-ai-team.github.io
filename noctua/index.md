@@ -1,3 +1,9 @@
+---
+layout: default
+title: Noctua
+description: Noctua — AI-антифрод и видеоаналитика для ритейла. первый продукт платформы KOZ.AI, предназначенный для магазинов, торговых сетей и служб безопасности.
+---
+
 <table class="table-clean">
   <tr>
     <td style="width: 280px;">

@@ -1,3 +1,9 @@
+---
+layout: default
+title: KOZ.AI
+description: KOZ.AI — платформенные AI-решения. Интеллектуальные системы для реального мира — безопасность, антифрод, выявление аномалий поведения.
+---
+
 <table class="table-clean">
   <tr>
     <td style="width: 280px;">

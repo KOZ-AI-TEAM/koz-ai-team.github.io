@@ -6,7 +6,7 @@ body {
   font-family: 'Fira Sans', sans-serif;
   font-size: 16px;
   line-height: 1.6;
-  max-width: 960px;
+  max-width: 1000px;
   margin: 0 auto;
   padding: 2rem;
   box-sizing: border-box;
@@ -102,4 +102,29 @@ footer {
   font-size: 0.85em;
   color: #666;
   margin-top: 3rem;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  background-color: transparent;
+  border: 1px solid #333;
+}
+
+th, td {
+  border: 1px solid #333;
+  padding: 0.75em 1em;
+  vertical-align: middle;
+}
+
+th {
+  background-color: #111;
+  color: #00eaff;
+  font-weight: bold;
+  text-align: left;
+}
+
+td {
+  color: #b3ecff;
 }

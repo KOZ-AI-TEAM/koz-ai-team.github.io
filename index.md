@@ -6,7 +6,7 @@ description: KOZ.AI — платформенные AI-решения. Интел
 
 <table class="table-clean">
   <tr>
-    <td style="width: 280px;">
+    <td style="width: 250px;">
       <img class="fuzzy-avatar" src="/static/images/KOZ-AI-logo.png" alt="KOZ.AI Logo" >
     </td>
     <td>
@@ -29,7 +29,7 @@ KOZ.AI — технологическая компания из Казахста
 
 <table class="table-clean">
   <tr>
-    <td style="width: 280px;">
+    <td style="width: 250px;">
       <img class="fuzzy-avatar" src="/static/images/Noctua-logo.png" alt="Noctua Logo" >
     </td>
     <td>

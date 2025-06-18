@@ -6,7 +6,7 @@ description: Noctua — AI-антифрод и видеоаналитика дл
 
 <table class="table-clean">
   <tr>
-    <td style="width: 280px;">
+    <td style="width: 300px;">
       <img class="fuzzy-avatar" src="/static/images/Noctua-logo.png" alt="Noctua Logo" >
     </td>
     <td>
